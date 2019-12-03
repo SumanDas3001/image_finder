@@ -1,4 +1,5 @@
 ## image_finder
+> This is an image finder application using react.js, Material-Ui and pixabay api
 
 In the project directory, you can run:
 1. npm install
