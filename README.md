@@ -1,9 +1,8 @@
 ## image_finder
 
-*In the project directory, you can run:*
-
-### npm install
-### npm start
+In the project directory, you can run:
+1. npm install
+2. npm start
 
 Runs `image_finder` in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
